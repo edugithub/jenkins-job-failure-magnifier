@@ -1,0 +1,1 @@
+# jenkins-job-failure-magnifier
